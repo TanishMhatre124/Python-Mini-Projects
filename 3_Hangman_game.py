@@ -112,3 +112,4 @@ while not game_over:
 
     # ✅ FIX: Print stage using 6 - lives to match index
     print(stages[6 - lives])
+   
